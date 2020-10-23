@@ -1,0 +1,32 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+img{
+  width:150px;
+  height:250px;
+}
+.centre{
+  text-align: center;
+
+}
+table{
+  margin-top:30px;
+  margin-left:200px;
+  border-spacing: 0;
+}
+th{
+  border:1px solid black;
+}
+tbody{
+  border:1px solid black;
+}
+td{
+  border:1px solid black;
+}
+
+.margin{
+   margin-left:350px;
+}
